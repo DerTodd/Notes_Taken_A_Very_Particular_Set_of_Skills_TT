@@ -51,8 +51,9 @@ Finished with a note? You simply click on the trashcan next to the note and remo
 
   <a name='tests'></a>
   ### Tests
-      none
-
+      Heroku has issues with my deployment and things are not working.  It works perfectly on the local host.  My instructor and TA have helped troubleshoot and have suggested including a link to show that it actually works.
+      
+[![planner](https://youtu.be/xFNwPlcka_Y)](https://youtu.be/xFNwPlcka_Y)
   <a name='contact'></a>
   ### Contact & Questions
   If you have any questions, suggestions or concerns, please contact me at:  
