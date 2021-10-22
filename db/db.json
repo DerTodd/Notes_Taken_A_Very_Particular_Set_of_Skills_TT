@@ -10,28 +10,13 @@
         "id": "708a"
     },
     {
-        "title": "Find game",
-        "text": "for the party",
-        "id": "3818"
+        "title": "Get Dog Food",
+        "text": "Max needs Food",
+        "id": "b3ef"
     },
     {
-        "title": "Hello",
-        "text": "Does this still work",
-        "id": "87b6"
-    },
-    {
-        "title": "Well",
-        "text": "now",
-        "id": "1796"
-    },
-    {
-        "title": "Add something new",
-        "text": "Hello",
-        "id": "8aea"
-    },
-    {
-        "title": "Nothing to see here",
-        "text": "nope",
-        "id": "f359"
+        "title": "Buy New Game",
+        "text": "Old one is missing",
+        "id": "b0fa"
     }
 ]
